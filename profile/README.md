@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="simvue-black.png" width="500" alt="Simvue" />
-</p>  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/simvue-io/.github/blob/5eb8cfd2edd3269259eccd508029f269d993282f/simvue-white.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/simvue-io/.github/blob/5eb8cfd2edd3269259eccd508029f269d993282f/simvue-black.png" />
+    <img alt="Simvue" src="https://github.com/simvue-io/.github/blob/5eb8cfd2edd3269259eccd508029f269d993282f/simvue-black.png">
+  </picture>
+</p>
  
 <p align="center"> 
 Collect metadata, metrics and artifacts from simulations, processing and AI/ML training tasks running on any platform, in real time.

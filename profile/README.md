@@ -15,3 +15,21 @@ Collect metadata, metrics and artifacts from simulations, processing and AI/ML t
   •
   <a href="https://docs.simvue.io"><b>Documentation</b></a>
 </h3>
+
+# The Simvue Stack
+
+The Simvue framework is divided into components relating to local simulation orchestration, the storage of runs on a remote server and any additional tools/utilities.
+
+|**Component**|**Repository**|**Description**|
+|-------------|--------------|---------------|
+| Server      |https://github.com/simvue-io/server|The server forms the cental location for storage simulation run information.|
+| Web UI      |https://github.com/simvue-io/web-ui|The main visual interface to the server, the website displaying information stored within the server.|
+| Python API  |https://github.com/simvue-io/python-api|Python based interface for sending run metrics and loggic metadata to a Simvue server instance.|
+| Integrations |https://github.com/simvue-io/integrations|Extensions to the Python API to simplify connectivity with simulation software.|
+| CLI         |https://github.com/simvue-io/simvue-cli|Command Line Interface for quick browsing locally of data on a Simvue server.|
+
+Each of these is an open source project in which we welcome contribution or comments.
+
+# Contact Us/Discussion
+
+The Simvue team uses GitHub Discussions as a way of communicating both with our users and contributors

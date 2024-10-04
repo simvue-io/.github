@@ -32,4 +32,5 @@ Each of these is an open source project in which we welcome contribution or comm
 
 # Contact Us/Discussion
 
-The Simvue team uses GitHub Discussions as a way of communicating both with our users and contributors
+The Simvue team uses GitHub Discussions as a way of communicating both with our users and contributors. We ask that when discussing a particular component of the Simvue stack
+you apply the relevant label to the topic, and ensure all discussion is made with care and respect to others.

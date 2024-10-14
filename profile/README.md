@@ -22,7 +22,6 @@ The Simvue framework is divided into components relating to local simulation orc
 
 |**Component**|**Repository**|**Description**|
 |-------------|--------------|---------------|
-| Server      |https://github.com/simvue-io/server|The server forms the cental location for storage simulation run information.|
 | Python API  |https://github.com/simvue-io/python-api|Python based interface for sending run metrics and loggic metadata to a Simvue server instance.|
 | Integrations |https://github.com/simvue-io/integrations|Extensions to the Python API to simplify connectivity with simulation software.|
 | CLI         |https://github.com/simvue-io/simvue-cli|Command Line Interface for quick browsing locally of data on a Simvue server.|

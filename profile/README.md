@@ -30,5 +30,7 @@ Each of these is an open source project in which we welcome contribution or comm
 
 # Contact Us/Discussion
 
-The Simvue team uses GitHub Discussions as a way of communicating both with our users and contributors. We ask that when discussing a particular component of the Simvue stack
+The Simvue team uses [GitHub Discussions](https://github.com/orgs/simvue-io/discussions) as a way of communicating both with our users and contributors. We ask that when discussing a particular component of the Simvue stack
 you apply the relevant label to the topic, and ensure all discussion is made with care and respect to others.
+
+When starting a new discussion please be sure to apply any relevant labels, when discussing a particular component of the Simvue infrastructure (e.g. server, web-ui etc.) select the relevant component label as well. Please ensure conversation is kept relevant to the topic, we do encourage conversation and suggestions so if there is a need to expand to another topic area just open a new discussion and link to it within the current one.
